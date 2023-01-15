@@ -1,0 +1,15 @@
+#toolbar-title {
+    font-size: 200%;
+    font-family: fantasy;
+    text-shadow: blue 1px 0px 10px;
+    color: yellow;
+    margin: 8px;
+}
+
+button {
+    margin: 8px;
+}
+
+#home {
+    margin: 10px;
+}
